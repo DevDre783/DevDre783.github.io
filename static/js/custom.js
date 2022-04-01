@@ -200,9 +200,10 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Full-stack Developer',
+                        'Full Stack Software Engineer',
                         'UX/UI Designer',
-                        'Freelancer'
+                        'Outdoors Enthusiast',
+                        'Martial Artist'
                     ],
                     breakLines: false
                 });
@@ -218,23 +219,23 @@
             loadScript(plugin_track + 'glitch/mgGlitch.min.js', function() {
                 $( ".glitch" ).mgGlitch({
                     // set 'true' to stop the plugin
-                    destroy : false, 
+                    destroy : false,
                     // set 'false' to stop glitching
-                    glitch: true, 
+                    glitch: true,
                     // set 'false' to stop scaling
-                    scale: false, 
+                    scale: false,
                     // set 'false' to stop glitch blending
-                    blend : true, 
+                    blend : true,
                     // select blend mode type
                     blendModeType : 'hue',
                     // set min time for glitch 1 elem
-                    glitch1TimeMin : 100, 
+                    glitch1TimeMin : 100,
                     // set max time for glitch 1 elem
                     glitch1TimeMax : 400,
                     // set min time for glitch 2 elem
-                    glitch2TimeMin : 50, 
+                    glitch2TimeMin : 50,
                     // set max time for glitch 2 elem
-                    glitch2TimeMax : 200, 
+                    glitch2TimeMax : 200,
               });
             });
         }

@@ -34,6 +34,11 @@ body.theme-light {
   font-weight: 400;
 }
 
+.pp-scrollable::-webkit-scrollbar {
+  display: none;
+}
+
+
 .font-alt {
   font-family: "Rubik", serif;
 }
