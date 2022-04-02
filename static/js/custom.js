@@ -200,10 +200,10 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Full Stack Software Engineer',
-                        'UX/UI Designer',
-                        'Outdoors Enthusiast',
-                        'Martial Artist'
+                        'Full Stack Software Engineer.',
+                        'UX/UI Designer.',
+                        'Outdoors Enthusiast.',
+                        'Martial Artist.'
                     ],
                     breakLines: false
                 });
